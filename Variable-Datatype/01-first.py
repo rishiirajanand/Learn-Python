@@ -13,12 +13,20 @@
 
 # String Concatenation
 
-str1 = 'abc'
-str2 = 'xyz'
+# str1 = 'abc'
+# str2 = 'xyz'
 
-print(str1 + str2)
+# print(str1 + str2)
 
+# Experssion Exection 
 
+# a,b = 2,'#'
+
+# Txt = '@'
+
+# print((b+Txt) * a)
+
+print(9/2)
 
 
 
