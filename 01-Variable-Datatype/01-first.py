@@ -26,7 +26,16 @@
 
 # print((b+Txt) * a)
 
-print(9/2)
+# print(9/2)
+
+# Taking Input from User
+
+name = input('Enter Name : ')
+age = int(input('Enter age : '))
+score = float(input('Enter score : '))
+
+print(name, age, score)
+
 
 
 
