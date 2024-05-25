@@ -27,3 +27,4 @@ if(num1 % 7 == 0) :
     print('number is multiply of 7')
 else :
     print('No')
+
